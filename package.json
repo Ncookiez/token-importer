@@ -19,5 +19,7 @@
     "tslib": "^2.3.1",
     "typescript": "~4.6.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "weaverfi": "^1.19.1"
+  }
 }

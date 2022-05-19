@@ -1,6 +1,6 @@
 {
-  "name": "sveltekit-pwa-template",
-  "short_name": "sveltekit-pwa",
+  "name": "token-importer",
+  "short_name": "token-importer",
   "background_color": "#3E82F7",
   "display": "minimal-ui",
   "start_url": "/",
